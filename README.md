@@ -1,18 +1,3 @@
-Hello Kushal,
-
- 
-
-It was nice speaking to you. 
-
- 
-
-As discussed, attached is the Test assignment that we would need you to complete in next 48-72 hours. This should not take more than 2-3 hours of your time.
-
-If the test results look positive, we would schedule the final technical interview round on Thursday or Friday.
-
- 
-
-The test task consists of two parts – UI and API test automation, please use Java for automating those tests. Send link to the repository to the following email: alexl@intertrust.com. For this test task we don't expect huge amount of time to be spent, normally for experienced test automation engineer it should take no more than couple of hours to automate these scenarios.If you have any questions, please let us know.
 
 Part 1 – UI test
 For UI test you can use whether Selenium/Selenide or Playwright for Java - our choice is Playwright, but you can use what is more familiar for you. Using Page Objects Model (POM) is highly encouraged. Create UI automated test for the following user scenario:
@@ -28,14 +13,4 @@ You can find the API key under you "Account Details" menu after you log in to Vi
 The test should send GET request to the VisualCrossing API endpoint (replace Tallinn withyour city in request):https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/Tallinn?unitGroup=metric&key=YOUR_API_KEY&contentType=json
 Verify returned response contains correct data. Decide what assertions should be used to verify the correctness of the response and add them to the test.
 
- 
 
-Please let me know in case of any further queries.
-
- 
-
-Thanks,
-
-Chetan Babuta
-
-+91-9820666660
